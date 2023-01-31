@@ -9,7 +9,7 @@ To remove these prerequisites an app called ApiDiscovery has been developed. Api
 
 So, the tool is to demonstrate HPE storage APIs or to offer people a simplified "first look" at HPE storage APIs, it is NOT a tool to manage or automate tasks for HPE Storage devices.
 
-### Instructions: 
+## Instructions: 
 Unzip and run the ApiDiscovery.exe (no installation required)
 ### Supports:
 - 3PAR
