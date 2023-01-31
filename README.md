@@ -11,7 +11,7 @@ So, the tool is to demonstrate HPE storage APIs or to offer people a simplified 
 
 ## Instructions: 
 Unzip and run the ApiDiscovery.exe (no installation required)
-### Supports:
+## Supports:
 - 3PAR
 - Nimble
 - Primera
